@@ -20,7 +20,7 @@ create table T_COMMENTAIRE (
 ) ENGINE=INNODB CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 insert into T_BILLET(BIL_DATE, BIL_TITRE, BIL_CONTENU) values
-(NOW(), 'Premier billet', 'Bonjour monde ! Ceci est le premier billet sur mon blog.');
+(NOW(), 'Premier billet', 'Bonjouhr monde ! Ceci est le premier billet sur mon blog.');
 insert into T_BILLET(BIL_DATE, BIL_TITRE, BIL_CONTENU) values
 (NOW(), 'Au travail', 'Il faut enrichir ce blog dès maintenant.');
 
