@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="style.css" />
-        <title>Mon Blog</title>
+        <title>Mon Blog de ouf</title>
     </head>
     <body>
         <div id="global">
